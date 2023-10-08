@@ -1,0 +1,24 @@
+** HELP **
+Starting:
+Measure one 200ms x 5mm box (holding left mouse button from one point of the box to the opposite point)
+The more you zoom in this stage, the more accurate your measurements will be.
+To zoom in, hold ctrl and scroll upwards.
+To zoom out, hold ctrl and scroll downwards.
+To pan the loaded image, hold right mouse button and moe your mouse.
+
+Measuring time and amplitude:
+To measure time and amplitude hold left mouse button from your starting point and drag to the end point.
+You can see the time and amplitude on the bottom left side of the screen.
+The numbers on the bottom left side of the screen show the time and amplitude of the active measure (green)
+You can change the active measure by pressing right or left arrow on your keyboard.
+To remove the latest measure, you can press ctrl + z on your keyboard.
+
+Measuring surface area:
+To measure surface area hold left shift and left click on the starting point of graph.
+Hold left shift and left click on other points of the graph until you reach the end.
+To save the measured area, press enter on your keyboard. Then you can see it's surface area.
+You can see the measured areas on the top right of your screen.
+After you have saved at least 2 surfaces, you can see the sum and the sum of the absolute values of the saved surfaces.
+To remove the most recent surface area, press left shift + z.
+
+To exit out of help, press Escape (Esc)
